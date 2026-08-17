@@ -159,7 +159,7 @@
 
         <div class="item">
             <div class="image-box">
-                <img src="images/image1.jpg" alt="">
+                <img src="images/ind.png" alt="">
             </div>
             <div class="rating-container">
                 <div class="rating" style="--rating: 1;"></div>
@@ -169,7 +169,7 @@
 
         <div class="item">
             <div class="image-box">
-                <img src="images/image2.jpg" alt="">
+                <img src="images/inv.png" alt="">
             </div>
             <div class="rating-container">
                 <div class="rating" style="--rating: 2;"></div>
@@ -179,7 +179,7 @@
 
         <div class="item">
             <div class="image-box">
-                <img src="images/image3.jpg" alt="">
+                <img src="images/mouse.png" alt="">
             </div>
             <div class="rating-container">
                 <div class="rating" style="--rating: 3;"></div>
@@ -189,7 +189,7 @@
 
         <div class="item">
             <div class="image-box">
-                <img src="images/image4.jpg" alt="">
+                <img src="images/fbc.png" alt="">
             </div>
             <div class="rating-container">
                 <div class="rating" style="--rating: 4;"></div>
@@ -199,7 +199,7 @@
 
         <div class="item">
             <div class="image-box">
-                <img src="images/image5.jpg" alt="">
+                <img src="images/e33.png" alt="">
             </div>
             <div class="rating-container">
                 <div class="rating orange" style="--rating: 5;"></div>
@@ -213,7 +213,7 @@
 
         <div class="item">
             <div class="image-box">
-                <img src="images/image6.jpg" alt="">
+                <img src="images/re4.png" alt="">
             </div>
             <div class="rating-container">
                 <div class="rating orange" style="--rating: 6;"></div>
@@ -223,7 +223,7 @@
 
         <div class="item">
             <div class="image-box">
-                <img src="images/image7.jpg" alt="">
+                <img src="images/van.png" alt="">
             </div>
             <div class="rating-container">
                 <div class="rating orange" style="--rating: 7;"></div>
@@ -233,7 +233,7 @@
 
         <div class="item">
             <div class="image-box">
-                <img src="images/image8.jpg" alt="">
+                <img src="images/fte.png" alt="">
             </div>
             <div class="rating-container">
                 <div class="rating red" style="--rating: 8;"></div>
@@ -243,7 +243,7 @@
 
         <div class="item">
             <div class="image-box">
-                <img src="images/image9.jpg" alt="">
+                <img src="images/mp3.png" alt="">
             </div>
             <div class="rating-container">
                 <div class="rating red" style="--rating: 9;"></div>
@@ -253,7 +253,7 @@
 
         <div class="item">
             <div class="image-box">
-                <img src="images/image10.jpg" alt="">
+                <img src="images/wolf.png" alt="">
             </div>
             <div class="rating-container">
                 <div class="rating red" style="--rating: 10;"></div>
