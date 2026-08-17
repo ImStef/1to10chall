@@ -16,8 +16,15 @@
         width: 100%;
         height: 100%;
         overflow: hidden;
-        background: #222;
+
+        /* Custom PNG background */
+        background: url("images/bg.png") center center / cover no-repeat;
     }
+
+
+    /* =========================================================
+       CANVAS
+       ========================================================= */
 
     .canvas {
         width: 1920px;
@@ -30,7 +37,13 @@
         transform-origin: center center;
         transform: translate(-50%, -50%) scale(var(--scale));
 
-        background: #222;
+        /* Custom PNG background */
+        background: url("images/background.png") center center / cover no-repeat;
+
+        /* Center the entire grid vertically and horizontally */
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
 
 
@@ -40,11 +53,11 @@
 
     .grid {
         width: 100%;
-        height: 100%;
+        height: auto;
 
         display: grid;
         grid-template-columns: repeat(5, 1fr);
-        grid-template-rows: repeat(2, 1fr);
+        grid-template-rows: auto auto;
 
         column-gap: 20px;
         row-gap: 35px;
@@ -136,6 +149,7 @@
     .rating-red {
         background: #e53935;
     }
+
 </style>
 </head>
 
